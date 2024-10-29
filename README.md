@@ -34,8 +34,7 @@ A calculadora oferece as seguintes operações:
 1. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd Aula18.2-DESAFIO-CriandoUmPacote
+   git clone https://github.com/irbaeza/desafio-criando-um-pacote-de-calculadora.git
    ```
 
 2. Execute o arquivo principal:
@@ -57,8 +56,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou s
 ## Licença
 
 Este projeto é de uso pessoal e não possui uma licença formal. Se você usar ou modificar este projeto, considere dar os devidos créditos.
-
-### Personalização
-
-- __Substitua `<URL_DO_REPOSITORIO>` pela URL real do seu repositório__ caso você esteja hospedando o projeto em plataformas como GitHub ou GitLab.
-- Sinta-se à vontade para adicionar mais seções ou detalhes conforme necessário, como uma seção de exemplos de uso ou notas sobre a manutenção do código.
